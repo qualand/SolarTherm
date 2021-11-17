@@ -1,3 +1,4 @@
+within examples;
 model Test_solarpilot
   Solarpilot sp_object = Solarpilot();
   String version;

@@ -1,3 +1,4 @@
+within examples;
 function test_function
   input Real number;
   output Real result;

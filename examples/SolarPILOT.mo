@@ -1,3 +1,4 @@
+within examples;
 class Solarpilot
   extends ExternalObject;
   function constructor
