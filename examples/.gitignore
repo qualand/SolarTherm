@@ -41,4 +41,9 @@ SolarTherm_*.libs
 *.xml
 *.dat
 Modelica_Utilities_*
-
+*.bak-mo
+buildlog.txt
+dsin.txt
+dslog.txt
+dsmodel.c
+*.zip
